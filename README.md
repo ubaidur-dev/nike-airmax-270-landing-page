@@ -18,4 +18,5 @@ Instead of a static portfolio piece, I wanted to demonstrate how interactive mic
 * **Google Fonts:** Integrated 'Orbitron' and 'Inter' to maintain a futuristic yet readable brand identity.
 
 ### How to Use
-Simply clone the repository and open the index.html file in any modern browser. The project is ready to go with no complex installation needed.
+* Simply clone the repository and open the **index.html** file in any modern browser.
+* The project is ready to go with **no complex** installation needed.
